@@ -1,0 +1,5 @@
+C:\Users\lolop\source\repos\otgodai_chislo\otgodai_chislo\obj\Debug\otgodai_chislo.csproj.AssemblyReference.cache
+C:\Users\lolop\source\repos\otgodai_chislo\otgodai_chislo\obj\Debug\otgodai_chislo.Properties.Resources.resources
+C:\Users\lolop\source\repos\otgodai_chislo\otgodai_chislo\obj\Debug\otgodai_chislo.csproj.GenerateResource.cache
+C:\Users\lolop\source\repos\otgodai_chislo\otgodai_chislo\obj\Debug\otgodai_chislo.csproj.CoreCompileInputs.cache
+C:\Users\lolop\source\repos\otgodai_chislo\otgodai_chislo\obj\Debug\otgodai_chislo.csprojAssemblyReference.cache
